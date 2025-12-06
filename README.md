@@ -510,7 +510,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=toxy4ny/thc-scalpel&type=Date)](https://star-history.com/#toxy4ny/thc-scalpel&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=toxy4ny/thc-scalpel&type=Date)](https://www.star-history.com/#toxy4ny/thc-scalpel&type=date&legend=top-left)
 
 ---
 
